@@ -7,7 +7,7 @@ Hi, I’m Amir Hameed, founder of Sirraya — an AI, ML, and IoT-driven tech sta
 	•	💻 I’m a full-stack developer, system architect, AI/ML engineer, IoT tinkerer, and app developer — passionate about building technology that’s both powerful and purpose-driven.
 	•	🔬 I specialize in intelligent systems, edge computing, and scalable ML pipelines — from idea to architecture to production.
 	•	🎨 I love blending traditional Kashmiri craftsmanship with cutting-edge innovation, proving that culture and code can coexist beautifully.
-	•	🧒 I started coding at the age of 12, and that early curiosity still fuels everything I do.
+	•	🧒 I started coding since 2010, and that early curiosity still fuels everything I do.
 
 About Sirraya
 
