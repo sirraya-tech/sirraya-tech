@@ -1,22 +1,28 @@
-Welcome to Sirraya
+Welcome to Sirraya — by Amir Hameed
 
+Hi, I’m Amir Hameed, founder of Sirraya — an AI, ML, and IoT-driven tech startup based in the heart of Kashmir, India.
 
-- 👋 Hi, I’m @sirraya-tech — an AI, ML & IoT tech startup based in beautiful Kashmir, India.
-- 👀 We’re passionate about building **open-source**, **ethical**, and **innovative** technology solutions that empower developers and businesses worldwide.
-- 🌱 Currently diving deep into advanced AI models, edge computing for IoT, and scalable machine learning pipelines.
-- 💞️ We’re eager to collaborate on projects that push the boundaries of intelligent systems, IoT integration, and open data initiatives.
-- 😄 Pronouns: We/Us
-- ⚡ Fun fact: Our founder Amir Hameed started coding at age 12 and loves blending traditional Kashmiri craftsmanship with cutting-edge technology.
+🧠 About Me
+	•	💻 I’m a full-stack developer, system architect, AI/ML engineer, IoT tinkerer, and app developer — passionate about building technology that’s both powerful and purpose-driven.
+	•	🔬 I specialize in intelligent systems, edge computing, and scalable ML pipelines — from idea to architecture to production.
+	•	🎨 I love blending traditional Kashmiri craftsmanship with cutting-edge innovation, proving that culture and code can coexist beautifully.
+	•	🧒 I started coding at the age of 12, and that early curiosity still fuels everything I do.
 
+🚀 About Sirraya
 
+Sirraya is my way of contributing back — a startup focused on building ethical, open-source, and developer-first technology. We aim to:
+	•	Empower communities through AI and IoT integration
+	•	Push the boundaries of machine learning in real-world, resource-sensitive environments
+	•	Create tools and platforms that are scalable, inclusive, and open
 
-About Sirraya
+🌍 What We’re Building
+	•	Open-source SDKs and APIs
+	•	IoT frameworks with intelligent edge computing
+	•	ML toolkits focused on real-time, privacy-first applications
+	•	AI solutions for social and commercial impact
 
-Founded by Amir Hameed, Sirraya is committed to creating technology that’s not only powerful but also accessible and responsible. We believe open-source innovation and ethical AI can transform communities — starting right here in Kashmir and reaching globally.
+🤝 Let’s Connect
 
-Stay tuned for exciting projects, open-source SDKs, and community-driven tools!
+Whether you’re a developer, researcher, entrepreneur, or just curious — I’m always open to collaborations, contributions, and conversations.
 
----
-
-Feel free to connect or contribute. Together, let’s build a smarter, fairer future! 
-
+📫 Let’s build a smarter, fairer, and more open future — together.
